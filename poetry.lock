@@ -167,13 +167,13 @@ pydantic = ">=2.0.0,<3.0.0"
 
 [[package]]
 name = "aws-lambda-powertools"
-version = "2.29.1"
+version = "2.30.2"
 description = "Powertools for AWS Lambda (Python) is a developer toolkit to implement Serverless best practices and increase developer velocity."
 optional = false
 python-versions = ">=3.7.4,<4.0.0"
 files = [
-    {file = "aws_lambda_powertools-2.29.1-py3-none-any.whl", hash = "sha256:430cc6a2a4039e21198c0d63af794af8109533bcc9e7ae9434026eefce397b3c"},
-    {file = "aws_lambda_powertools-2.29.1.tar.gz", hash = "sha256:39af6f5a84127d2f20ddf35c130b016cc7fab60f07f887cf86dce634e8c7650a"},
+    {file = "aws_lambda_powertools-2.30.2-py3-none-any.whl", hash = "sha256:1c97cb4185490daf33d08f8dffb7002ae3e90fdadee3a60327e4993e0ddf1605"},
+    {file = "aws_lambda_powertools-2.30.2.tar.gz", hash = "sha256:95538b44c43e16036db3a84631d2c678fabc29bcb0b9ee41a58499106b1e92b5"},
 ]
 
 [package.dependencies]
@@ -2039,4 +2039,4 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11.0"
-content-hash = "48a7bdca523bc3ff49523d9581238c6767134f3cd6eb83815b260fe4581fd0c9"
+content-hash = "f0a733179f1f2d4f5ae73de48558dd9aee0603f6c7cc3b59a1925bf36f4b13cc"
